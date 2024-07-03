@@ -4,6 +4,17 @@ This is a Samsung Calculator clone project created using HTML, CSS, and JavaScri
 
 <img width="159" alt="Samsung Calculator Project" src="https://github.com/the-anuj-23/Samsung-Calculator-Clone/assets/137100246/944bd986-69a0-402b-ab82-f81d6d1b0985">
 
+## Table of Contents
+
+- [Project Description](#project-description)
+- [Features](#features)
+- [Data Sources](#data-sources)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Contact](#contact)
+
 ## Project Description
 
 The Samsung Calculator clone is a web-based application that mimics the look and feel of the Samsung Calculator. This project is built purely with HTML for the structure, CSS for styling, and JavaScript for the functionality. The clone aims to be as close to the original calculator as possible, both in terms of aesthetics and behavior.
