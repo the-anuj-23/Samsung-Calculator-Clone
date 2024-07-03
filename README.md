@@ -8,7 +8,6 @@ This is a Samsung Calculator clone project created using HTML, CSS, and JavaScri
 
 - [Project Description](#project-description)
 - [Features](#features)
-- [Data Sources](#data-sources)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Contact](#contact)
