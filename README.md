@@ -11,8 +11,6 @@ This is a Samsung Calculator clone project created using HTML, CSS, and JavaScri
 - [Data Sources](#data-sources)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
 - [Contact](#contact)
 
 ## Project Description
