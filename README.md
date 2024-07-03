@@ -39,5 +39,7 @@ To get a local copy up and running, follow these simple steps:
    git clone https://github.com/the-anuj-23/samsung-calculator-clone.git
 
 ANUJ SUTHAR - anujsuthar242@gmail.com
+
 Linkedin - https://www.linkedin.com/in/anuj-suthar-583995210/
+
 Github - https://github.com/the-anuj-23/
